@@ -68,7 +68,7 @@ release version `NN`.
 
 To upload the application manually, you need to do a few things.
 First, tag th current commit with the App Engine application version
-(this is not necessary unless you are deploying to the official server)::
+(this is not necessary unless you ar deploying to the official server)::
 
   $ git tag -a version-42
 
